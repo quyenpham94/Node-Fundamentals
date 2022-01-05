@@ -29,7 +29,7 @@ button:focus {
 }
 
 .card {
-    width: 20px;
+    width: 250px;
     background-color: lightsteelblue;
     border: 8px solid steelblue;
     border-radius: 8px;
